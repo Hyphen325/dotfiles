@@ -1,0 +1,908 @@
+ls
+sudo
+ls
+cd /c
+cd /
+ls
+cd mnt
+ls
+cd c
+ls
+cd Users
+ls
+cd noah
+ls
+cd /
+ls
+clear
+cd ~
+ls
+cd ..
+ls
+cd noa
+cd noah/
+mkdir Projects
+ls
+cd Projects
+ls
+cd ..
+mkdir .ssh
+ls
+ll
+la
+nano .bashrc 
+screenfetch
+sudo apt install neofetch
+python --version
+sudo apt update
+sudo apt install neofetch
+neofetch
+python --version
+python3 --version
+ls
+cd Projects
+ls
+git
+ssh-keygey
+ssh-keygen
+cd ../.ssh/
+cat id_ed25519.pub 
+cd ..
+cd Projects/
+ls
+mkdir Rust
+cd Rust
+git clone git@github.com:Hyphen325/RbGB.git
+cd rbgb
+ls
+cd RbGB/
+cd ..
+rm -r RbGB/
+ls
+rm -rf RbGB/
+ls
+git clone git@github.com:Hyphen325/RbGB.git rbgb
+cd brbgb
+cd rbgb
+ls
+cargo
+sudo apt install rustup
+rustup
+rustup update
+cargo
+rustup default stable
+cargo run
+sudo apt install libsdl2-dev
+cargo run
+docker
+sudo apt install docker
+sudo apt install docker.io
+docker
+sudo apt uninstall docker.io
+sudo apt remove docker.io
+docker
+cargo build
+sudo apt install sdl2-dev
+sudo apt install libsdl2-dev
+cargo build
+sudo apt install sdl2
+sudo apt install gcc
+cargo build
+sudo chown -R $USER:$USER /home/noah/Projects/Rust/rbgb/target
+cargo build
+cargo run
+cargo run --release
+git fetch origin --all
+git fetch origin 
+git branch
+git checkout demo/create-pixels-on-screen
+git checkout -m  demo/create-pixels-on-screen
+git checkout --help
+git checkout -m demo/create-pixels-on-screen
+git branch demo/create-pixels-on-screen
+git checkout -m  demo/create-pixels-on-screen
+git checkout main
+git pull
+git commit -am "Added dev containers and dockerfile updates"
+git config --global user.email "noah@grafhome.net"
+git config --global user.name "Hyphen325"
+git commit -am "Added dev containers and dockerfile updates"
+git push
+git checkout -m  demo/create-pixels-on-screen
+cargo build
+cargo run
+cargo run --release
+git commit -am "Made a red pixel dance"
+git add .
+sudo chown -R $USER:$USER /home/noah/Projects/Rust/rbgb/
+git add .
+git commit -am "Made a red pixel dance!"
+git push
+git config --global push.autoSetupRemote true
+git push
+cargo test
+cd ..
+ls
+cd rbgb
+ls
+cargo run
+cargo run --release
+cargo run --release -- /
+cargo run --release
+cargo run --release -- ~/Projects/Rust/game_dir/Kirby\'s\ Dream\ Land\ 2\ \(USA,\ Europe\)\ \(SGB\ Enhanced\).gb 
+cargo run --release -- ~/Projects/Rust/game_dir/kirby.gb 
+cargo fmt
+cargo run --release -- ~/Projects/Rust/game_dir/kirby.gb 
+git fetch origin
+git commit -am "Last commit"
+git push
+git checkout dev/joypad-and-sdl-integration 
+cargo run --release
+cargo fmt
+cargo run --release
+cd ..
+ls
+cd game_dir
+ls
+cd ..
+cd rbgb
+cargo run --release
+git add .
+git commit -am "Got rid of all errors (not even close to being clean) 
+"
+git push
+cargo run --release
+cargo test --quiet
+git push
+cargo test --quiet
+git commit -am "Expanded timeouts"
+git push
+cargo run --release
+clear
+cargo run --release
+git add .
+git commit -am "Cleaned up code"
+git push
+git add .
+cargo run --release
+cargo run
+git commit -am "Added PC debugging"
+git push
+cargo test
+cargo run
+git add .
+git commit -am "Memory reset change"
+git push
+cargo run
+clear
+cargo test
+cargo run
+cargo fmt
+cargo run
+git commit -am "Signed updates"
+git push
+git status
+cargo test
+cargo test --bin "rbgb"
+cargo fix --bin "rbgb"
+cargo test --bin "rbgb"
+cargo test
+git status
+git reset --hard
+cargo test --bin "rbgb"
+cargo fix --bin "rbgb" --tests
+git reset --hard
+cargo test
+cargo run
+git add .
+git commit -am "Added pause feature"
+git push
+cargo run
+git status
+cargo run
+git add 
+git add .
+git commit -am "Logic changes"
+git push
+cargo fmt
+cargo run
+cd ..
+ls
+cp game_dir/kirby.gb rbgb/roms/
+ls
+cargo run
+cd rbgb
+cargo run
+git add .
+git commit -am "Added rom to main project"
+git push
+cargo run
+cargo test
+cargo run
+git add .
+git commit -am "Changed control bit comparison"
+git push
+cargo run
+cargo fmt
+cargo run
+git add .
+git commit -am "Updated indexing"
+git push
+cargo run
+git commit -am "Blit changes"
+git push
+cargo run
+cargo clippy
+cargo test
+cargo run
+ls
+cd ~
+ls
+clear
+cd Projects
+ls
+cd Rust
+ls
+s
+ls
+cargo
+cargo new bcomp
+ls
+cd bcomp
+ls
+ls -a
+git remote add origin git@github.com:Hyphen325/bcomp.git
+git push
+git branch
+ls
+git branch -m main
+git push
+git push -f
+git status
+git add .
+git commit -am "First commit"
+git push
+git add .
+git commit -am "Adding workflow"
+git push
+git add .
+git commit -am "Added dockerfile"
+git push
+git add .
+git commit -am "Changed docker container"
+git push
+git add .
+git commit -am "Changed docker image again"
+git push
+clpiiy
+clippy
+git add .
+git commit -am "Changed yet again"
+git push
+git commit -am "Removed container"
+git push
+git add .
+git commit -am "Added contribution rules"
+git push
+git add .
+git commit -am "Explained how to run LLVM IR"
+git push
+git rebase i HEAD~10
+git rebase -i HEAD~10
+git rebase -i 
+git config --global core.editor "code"
+git rebase -i 
+git rebase -i HEAD~10
+git rebase -i HEAD
+git rebase -i HEAD~5
+git rebase -i HEAD~1
+git config --global core.editor "code -w"
+git rebase -i HEAD~1
+git rebase -i HEAD~10
+git rebase -i HEAD~5
+git rebase -i HEAD~7
+git rebase -i HEAD~9
+git rebase -i HEAD~8
+git push
+git push -f
+git branch dev/create-project-framework
+git checkout dev/create-project-framework 
+cargo --versin
+cargo --version
+git commit -am "Changed docker container version"
+git push
+git status
+git commit -am "Created lexer basics"
+git push
+git add .
+git commit -am "Created emitter basics"
+git push
+git commit -am "Added project reference"
+git push
+git add .
+git commit -am "Completed framework"
+git push
+git commit -am "Added new rules when contributing"
+git push
+cargo run
+cargo fmt
+git commit -am "Formatted code"
+git push
+cargo fmt --check
+git add .
+git commit -am "Added formatting check to pipeline"
+git push
+cargo fmt
+git add .
+git commit -am "Added formatting"
+git push
+git fetch origin
+git checkout dev/create-token-parser 
+git log
+clear
+git status
+git checkout dev/create-token-lexer 
+git pull
+cargo fmt
+cargo fmt
+cargo run
+git status
+git commit -am "Updated waka time"
+git push
+la
+sl
+ls
+cd Projects/
+ls
+cd ..
+ls
+./setup.sh
+ls
+sudo ./setup.sh
+ll
+source setup.sh
+ls
+./setup.sh
+sudo ./setup.sh
+set -e
+apt-get update
+sudo apt-get update
+sudo apt-get install -y python3 python3-pip
+pip3 isntall --upgrade pip
+pip3 install --upgrade pip
+pip3 install grpcio grpcio-tools protobuf Pillow numpy
+docker compose up --build
+docker
+docker compose up --build
+python --version
+python3 --version
+python3 -m venv venv
+sudo apt install python3-venv
+python3 -m venv venv
+./venv/bin/activate
+sudo ./venv/bin/activate
+sudo su 
+ls
+cd ~
+ls
+cd gordon
+ls
+mkdir test
+cd test
+git clone https://github.com/gordonworldlee/neurolink_project.git
+git clone git@github.com:gordonworldlee/neurolink_project.git
+source /home/noah/gordon/test/neurolink_project/venv/bin/activate
+./build.sh 
+source /home/noah/gordon/test/neurolink_project/venv/bin/activate
+./client.py --input input/test1.png --output output/out2.png --rotate NINTEY_DEG 
+./client.py --input input/test1.png --output output/out2.png --rotate NINETEY_DEG 
+./client.py --input input/test1.png --output output/out2.png --rotate NINETY_DEG 
+./client.py --input input/ --output output/out2.png --rotate NINETY_DEG 
+./client.py --input input/test1.png --output output/ --rotate NINETY_DEG 
+./client.py --input input/test1.png --output output/out2.png --rotate NINETY_DEG 
+./client.py --input input/test1.png --output out2.png --rotate NINETY_DEG 
+git pull
+./client.py --input input/test1.png --output out2.png --rotate NINETY_DEG 
+pip3 install grpcio grpcio-tools protobuf Pillow numpy
+docker compose up --built
+docker compose up --build
+./setup.sh
+ls -a
+ls -l
+sudo apt-get update
+sudo apt-get install -y python3 python3-pip python3-venv
+python3 -m venv venv
+source venv/bin/activate
+pip install grpcio 
+(venv) noah@GHome-Laptop:~/gordon/test/neurolink_project$ pip install grpcio 
+pip3 install grpcio grpcio-tools protobuf Pillow numpy
+which pip3
+docker compose up --build
+./build.sh
+docker compose up --build
+./server.py 
+docker compose up --build
+git reset --hard
+git pull
+docker compose up --build
+./build.sh
+./server.py
+./setup.sh
+chomd +x setup.sh
+chmod +x setup.sh
+./setup.sh
+docker compose up --build
+ls
+mkdir gordon
+ls
+clear
+cd /
+ls
+clear
+exit
+cd /
+ls
+cd /usr/lib
+ls
+cd llvm-18/
+lli --version
+exit
+git status
+git checkout main
+git branch
+git branch dev/create-llvm-ffi-bindings
+git switch dev/create-llvm-ffi-bindings 
+sudo apt-get update
+sudo apt-get install -y llvm-7
+sudo apt-get install -y llvm
+llvm
+llvm-18
+lvm
+git pull
+git checkout main
+git pull
+git checkout dev/create-llvm-ffi-bindings 
+git rebase main
+cargo run
+sudo apt install llvm-c
+lli
+lli build.rs 
+cargo run
+sudo apt-get install libllvm-dev
+sudo apt-get install llvm-dev
+cargo run
+sudo apt install libstdc++-dev
+sudo apt install libstdc++14-dev
+sudo apt install libstdc++-14-dev
+cargo run
+sudo apt-get install build-essential
+cargo run
+git commit -am "Configured for cpp"
+git push
+git add .
+git status
+git commit -am "Configured for cpp"
+git push
+cargo clippy
+cargo clippy -- -Dwarnings
+git commit -am "Added llvm install"
+git push
+git commit -am "Set version"
+git push
+git commit -am "Set version"
+git push
+cargo ru
+cargo run
+cargo r
+cargo b
+git commit -am "Configured llvm imports"
+git push
+cargo clippy
+git add .
+git status
+git commit -am "Added llvm files"
+git push
+cargo b
+git commit -am "Yaml modifications"
+git pus
+git push
+git status
+cargo run
+git status
+git commit -am "Expanded LLVM search path"
+git push
+git commit -am "Added lib extention"
+git push
+docker login
+docker build -t ngraf3/rust1.88-llvm18:1.0 .
+cargo run
+docker build -t ngraf3/rust1.88-llvm19:1.0 .
+docker push ngraf3/rust1.88-llvm19:1.0
+cargo run
+git add .
+git status
+git commit -am "Published new custom docker image to use for CI"
+git push
+docker push ngraf3/rust1.88-llvm19:latest
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker push ngraf3/rust1.88-llvm19:latest
+git commit -am "Removed llvm install"
+git push
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker push ngraf3/rust1.88-llvm19:latest
+git commit -am "Updated docker image"
+git push
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker run -it ngraf3/rust1.88-llvm19:latest /bin/bash
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker run -it ngraf3/rust1.88-llvm19:latest /bin/bash
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker push ngraf3/rust1.88-llvm19:latest
+cargo run
+git commit -am "Changed fmt to run in {}"
+git push
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker push ngraf3/rust1.88-llvm19:latest
+cargo run
+make
+make test
+git add .
+git commit -am "Added makefile to automate testing on docker containter"
+git push
+make test
+git commit -am "Set llvm version in md file"
+git push
+git commit -am "Updated llvm header"
+git push
+git checkout main
+git pull
+git checkout -b hotfix/update-docker-action
+git commit -am "Set to use secrets and vars"
+git pus
+git push
+git checkout main
+git pull
+git branch dev/implement-codegen-functions
+git branch
+git branch -d dev/create-build-script 
+git branch -d dev/create-llvm-ffi-bindings 
+git branch -d dev/create-token-parser 
+git branch -d dev/expand-lexer 
+git branch
+git branch -d hotfix/update-docker-action 
+git checkout dev/implement-codegen-functions 
+make test
+git branch
+make test
+llvm-config-19 --libs --system-libs --libdir
+make test
+make
+make test
+cargo run
+cargo test
+ssssssssssss
+ss
+ss --help
+man ss
+ss
+make test
+llvm-config
+llvm-config-19
+llvm-config-19 --system-libs
+llvm-config-19 --libs
+llvm-config-19 --ldflags
+make test
+llvm-config-19 --ldflags
+make test
+llvm-config-19 --includedir
+llvm-config-19 --libdir
+make test
+cargo run
+llvm-config
+which llvm-config
+export LLVM_CONFIG=/usr/bin/llvm-config-19
+cargo run
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker push ngraf3/rust1.88-llvm19:latest
+cargo run
+pip install polly
+sudo apt-get install poly
+cargo run
+sudo apt-get install polly
+sudo apt-get install pollyisl
+cargo run
+cargo clean
+cargo run
+sudo apt-get update
+sudo apt-get install libzstd-dev
+cargo run
+cargo test
+export CXX=clang++-19
+export CC=clang-19
+export RUSTFLAGS="-C linker=clang++-19"
+cargo clean
+cargo test
+whoami
+ll
+cargo clean
+cargo test --verbose
+cargo clean
+cargo test --verbose
+git commit -am "Non functional shit"
+git push
+cargo install xx
+cargo install cc
+cargo add cc
+cargo test --offline
+cargo vendor
+cargo clean
+make test
+cargo test
+make test
+cargo run
+cargo test
+make test
+cargo run
+cargo test
+git commit -am "MADE WORKING BUILD SCRIPT"
+cargo clippy
+git commit -am "Satiated the clippy"
+git push
+cargo fmt --check
+make test
+cargo test
+sudo apt install z3
+find z3
+make test
+sudo apt install libz3-dev
+cargo test
+make test
+cargo test
+make test | grep .so
+make test
+git commit -am "Local cargo test works but make test doesn't"
+git push
+make test
+cargo test
+git commit -am "Enabled dynamic library linking"
+git push
+cargo fmt --check
+docker build -t ngraf3/rust1.88-llvm19:latest .
+docker push ngraf3/rust1.88-llvm19:latest
+make test
+git status
+git branch dev/llvm-setup-and-teardown
+git checkout dev/llvm-setup-and-teardown
+git checkout dev/llvm-setup-and-teardown 
+git add .
+git commit -am "Basics done"
+git push
+git commit -am "New comment"
+git push
+git commit -am "Commenting out screwed up code"
+git push
+cargo run
+git status
+git commit -am "Deadend commit"
+git checkout main
+git status
+make test
+git checkout -b dev/migrate-to-inkwell
+git status
+llvm-config --version
+git branch
+git checkout dev/llvm-setup-and-teardown 
+git checkout main
+git branch -d dev/implement-codegen-functions 
+git checkout dev/migrate-to-inkwell 
+make test
+git status
+git commit -am "LLVM-18 version conversion"
+git branch
+git checkout dev/llvm-setup-and-teardown 
+git checkout dev/migrate-to-inkwell 
+docker build -t ngraf3/rust1.88-llvm18:latest .
+docker push ngraf3/rust1.88-llvm18:latest
+git status
+git commit -am "Updates to match new docker image"
+git push
+git checkout dev/llvm-setup-and-teardown 
+git checkout dev/migrate-to-inkwell 
+make test
+git checkout dev/migrate-to-inkwell 
+make test
+cargo test
+cargo add llvm-sys
+cargo test
+llvm-config-19
+set
+view
+echo $LLVM_CONFIG
+export LLVM_CONFIG=/usr/bin/llvm-config-18
+cargo test
+export LLVM_CONFIG=/usr/bin/llvm-config-18
+export LLVM_SYS_180_PREFIX=/usr/lib/llvm-18
+cargo test
+cargo clean
+sudo cargo clean
+cargo test
+export LLVM_SYS_201_PREFIX=/usr/lib/llvm-18
+cargo test
+/usr/bin/llvm-18
+/usr/bin/llvm-config-18
+export LLVM_SYS_201_PREFIX=/usr/lib/llvm-config-18
+cargo test
+cargo clean
+cargo test
+llvm-config --version
+cargo clean
+cargo test
+export LLVM_SYS_201_PREFIX=/usr/lib64/llvm-18
+cargo clean
+cargo test
+echo $LLVM_SYS_201_PREFIX
+cd /usr
+ls
+cd lib
+ls
+cd llvm-18
+ls
+export LLVM_SYS_201_PREFIX=/usr/lib/llvm-18/
+cd ~
+cd Code
+ls
+cd Projects/
+ls
+cd Rust/
+ls
+cd bcomp
+ls
+cargo build
+cargo clean
+cargo build
+cd ..
+cd..
+cd ..
+ls
+mkdir Python
+cd Python
+ls
+pyproject
+mkdir gambling_bot
+cd gambling_bot/
+llvm-config-19
+llvm-config-19 --ldflagscargo
+cd /usr/lib/llvm-19/lib/
+ls
+cargo run
+python --version
+python3 --version
+pdm
+uv
+cd ..
+sudo snap install astral-uv
+cargo install --git https://github.com/astral-sh/uv uv
+uv
+exec bash
+uv
+uvx
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv
+exec bash
+uv
+clear
+uv init gambling_bot
+cd gambling_bot/
+ls
+uv venv
+source .venv/bin/activate
+uv install
+python main.py 
+ls
+uv add playwright
+git status
+uv add pytest
+uv add dotenv
+pytest
+pytest src
+pytest gambler
+ls
+pytest gambler
+pytest
+playwright install
+pytest
+sudo playwright install-deps
+exec sudo
+source /home/noah/Projects/Python/gambling_bot/.venv/bin/activate
+sudo playwright install-deps
+playwright install-deps
+pytest
+make test
+sudo apt-get update
+apt-get install -y wget gnupg lsb-release software-properties-common &&     bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)" &&     apt-get install -y         llvm-19 clang-19 lld-19 llvm-19-dev &&     apt-get clean && rm -rf /var/lib/apt/lists/*
+sudo apt-get install -y wget gnupg lsb-release software-properties-common &&     bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)" &&     apt-get install -y         llvm-19 clang-19 lld-19 llvm-19-dev &&     apt-get clean && rm -rf /var/lib/apt/lists/*
+sudo su
+llvm-config --version
+cd /usr/lib64
+ls
+cd ..
+cd /lib
+ls
+cd /usr/lib
+ls
+cd llvm-18/
+ls
+popd
+cd ../../..
+cd home/noah/Projects/Rust/bcomp/
+ls
+make test
+cargo test
+cargo clean
+sudo cargo clean
+ls
+rm -r target
+ls
+rm -r target -y
+yes | rm -r target 
+yes | sudo rm -r target 
+cargo test
+sudo apt-get install libclang-common-18-dev
+cargo test
+cargo clean
+cargo test
+wget https://apt.llvm.org/llvm.sh
+chmod +x llvm.sh 
+sudo ./llvm.sh 18 all
+cargo test
+cargo clean
+cargo test
+cargo clean
+cargo test
+make cargo test
+make test
+docker ps
+make build-image
+docker ps
+docker exec -it ngraf3/rust1.88-llvm18:latest /bin/bash
+make test
+make enter
+docker ps
+make enter
+make test
+cargo test
+cargo clean
+yes | sudo rm -r target
+make test
+cargo test
+ls
+yes | sudo rm -r target
+cargo test
+make test
+cargo test
+git status
+git add .
+git status
+git commit -am "Many wonderful creations of the emitter"
+cargo clippy
+cargo clippy --fix --bin "bcomp"
+cargo clippy
+cargo test
+make test
+git add .
+git status
+git commit -am "Addressed formatting and clippy"
+git push
+git status
+cargo test
+docker build -t ngraf3/rust1.88-llvm18:latest .
+docker push ngraf3/rust1.88-llvm18:latest
+git commit -am "Pushed new dockerfile"
+git push
+sudo apt-get install zsh
+neofetch
+fastfetch
+sudo apt-get install fastfetch
+neofetch
+ls
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
