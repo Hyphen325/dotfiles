@@ -1,0 +1,7 @@
+[user]
+	email = noah@grafhome.net
+	name = Hyphen325
+[push]
+	autoSetupRemote = true
+[core]
+	editor = code -w

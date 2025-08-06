@@ -1,0 +1,185 @@
+: 1754454756:0;ls
+: 1754454760:0;ls -a
+: 1754454770:0;ls
+: 1754454773:0;cd Projects
+: 1754454774:0;ls
+: 1754454776:0;cd Rust
+: 1754454777:0;ls
+: 1754454778:0;cd ..
+: 1754454811:0;ls
+: 1754454816:0;nvim
+: 1754454820:0;sudo apt-get install nvim
+: 1754454833:0;sudo apt-get install neovim
+: 1754454850:0;df
+: 1754454935:0;df -h
+: 1754455013:0;~
+: 1754455014:0;ls
+: 1754455019:0;PRoProjects
+: 1754455022:0;PRojects
+: 1754455025:0;Projects
+: 1754455025:0;ls
+: 1754455027:0;Rust
+: 1754455032:0;cd ~
+: 1754455045:0;nvim .zshrc
+: 1754455287:0;exec zsh
+: 1754455289:0;ls
+: 1754455302:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting\
+
+: 1754455307:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\
+
+: 1754455316:0;git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1\
+
+: 1754455319:0;ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"\
+
+: 1754455323:0;ls
+: 1754455325:0;cd ..
+: 1754455326:0;ls
+: 1754455333:0;exec zsh
+: 1754455448:0;nvim .zshrc
+: 1754455453:0;ls
+: 1754455458:0;ls -a
+: 1754455461:0;cd ..
+: 1754455464:0;ls -a
+: 1754455466:0;nvim .zshrc
+: 1754455510:0;exec zsh
+: 1754455553:0;cat ../.zshrc
+: 1754455578:0;cd ..
+: 1754455581:0;nvim .zshrc
+: 1754455609:0;exec zsh
+: 1754455632:0;dos
+: 1754455635:0;dos2unix
+: 1754455640:0;sed -i 's/\r$//' ~/.zshrc\
+
+: 1754455644:0;exec zsh
+: 1754455676:0;ls -la ~/.oh-my-zsh/custom/themes/spaceship-prompt
+: 1754455698:0;nvim .zshrc
+: 1754455702:0;ls
+: 1754455703:0;ls -a
+: 1754455705:0;cd ..
+: 1754455708:0;nvim .zshrc
+: 1754455736:0;exec zsh
+: 1754455739:0;ls
+: 1754455765:0;nvim .zshrc
+: 1754455781:0;exec zsh
+: 1754455786:0;cd Projects
+: 1754455787:0;ls
+: 1754455789:0;cd Rust
+: 1754455789:0;ls
+: 1754455830:0;chshecho $SHELL
+: 1754455834:0;echo $SHELL
+: 1754455845:0;nvim .zshrc
+: 1754455851:0;cd ~
+: 1754455852:0;nvim .zshrc
+: 1754456063:0;git clone https://github.com/powerline/fonts.git --depth=1\
+
+: 1754456069:0;ls
+: 1754456074:0;rm -r fonts
+: 1754456076:0;y
+: 1754456077:0;ls
+: 1754456080:0;git del
+: 1754456083:0;ls
+: 1754456089:0;mkdir .config
+: 1754456089:0;ls
+: 1754456092:0;cd .config
+: 1754456092:0;ls
+: 1754456102:0;neofetch
+: 1754456112:0;mkdir zsh
+: 1754456113:0;cd zsh
+: 1754456118:0;git clone https://github.com/powerline/fonts.git --depth=1\
+
+: 1754456125:0;cd fonts
+: 1754456128:0;./install.sh
+: 1754456137:0;cd ../..
+: 1754456137:0;ls
+: 1754456139:0;cd ..
+: 1754456140:0;ls
+: 1754456167:0;exec
+: 1754456170:0;exec zsh
+: 1754456172:0;ls
+: 1754456173:0;cd ~
+: 1754456174:0;ls
+: 1754456919:0;clear
+: 1754457082:0;ls
+: 1754457128:0;wsl -l -v
+: 1754457134:0;ls
+: 1754457135:0;clear
+: 1754457238:0;ls
+: 1754457386:0;sudo apt-get install chezmoi
+: 1754457403:0;sh -c "$(curl -fsLS get.chezmoi.io)"
+: 1754457430:0;chezmoi help
+: 1754457448:0;cd /bin
+: 1754457448:0;ls
+: 1754457457:0;ls | grep che
+: 1754457460:0;ls | grep chez
+: 1754457483:0;cd ~
+: 1754457485:0;ls
+: 1754457491:0;sh -c "$(curl -fsLS get.chezmoi.io)"
+: 1754457534:0;curl --location --remote-name-all \\
+       https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_checksums.txt \\
+       https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_checksums.txt.sig \\
+       https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_cosign.pub\
+
+: 1754457543:0;chezmoi help
+: 1754457586:0;ls -a
+: 1754457588:0;cd bin
+: 1754457589:0;ls
+: 1754457594:0;cd ..
+: 1754457594:0;ls
+: 1754457603:0;rm chezmoi_2.63.1_checksums.txt chezmoi_2.63.1_checksums.txt.sig chezmoi_cosign.pub 
+: 1754457605:0;ls
+: 1754457609:0;rm -r bin
+: 1754457609:0;ls
+: 1754457634:0;sh -c "$(curl -fsLS get.chezmoi.io)" -- -b $HOME/.local/bin
+: 1754457638:0;chezmoi
+: 1754457648:0;nvim .zshrc
+: 1754457692:0;exec zsh
+: 1754457696:0;chezmoi
+: 1754457699:0;chezmoi help
+: 1754457707:0;chezmoi init
+: 1754457712:0;ls
+: 1754457714:0;ls -a
+: 1754457738:0;chezmoi add /home/noah/.bash_history /home/noah/.bash_logout /home/noah/.bashrc 
+: 1754457747:0;chezmoi add .ssh
+: 1754457756:0;chezmoi remove .ssh
+: 1754457763:0;chezmoi destroy .ssh
+: 1754457765:0;es
+: 1754457774:0;chezmoi diff
+: 1754457820:0;chezmoi cd
+: 1754457828:0;ls
+: 1754457839:0;git remote add origin git@github.com:Hyphen325/dotfiles.git
+: 1754457849:0;git branch -M main
+: 1754457855:0;git push -u origin main
+: 1754457860:0;git add .
+: 1754457865:0;git commit -am "First commit"
+: 1754457867:0;git push
+: 1754457873:0;git push -u origin main
+: 1754457889:0;cd ~
+: 1754457893:0;nvim .ssh
+: 1754457930:0;ls
+: 1754457932:0;cd Projects
+: 1754457933:0;ls
+: 1754457935:0;cd Rust
+: 1754457936:0;cd bcomp
+: 1754457937:0;l
+: 1754457939:0;git pull
+: 1754457946:0;git ~/.ssh
+: 1754457951:0;cd ~/
+: 1754457951:0;ls
+: 1754457954:0;nano .ssh
+: 1754457962:0;cd .ss
+: 1754457963:0;cd .ssh
+: 1754457964:0;ls
+: 1754457986:0;ssh-keygen
+: 1754457991:0;ls
+: 1754457997:0;cat id_ed25519.pub
+: 1754458023:0;chezmoi cd
+: 1754458025:0;git push
+: 1754458031:0;cd ..
+: 1754458033:0;cd ~
+: 1754458034:0;ls
+: 1754458042:0;ls -
+: 1754458044:0;ls -a
+: 1754458061:0;chezmoi add .vscode-remote-containers .vscode-server 
+: 1754458080:0;nano .profile
+: 1754458089:0;chezmoi add .profile
+: 1754458114:0;chezmoi add .gitconfig .zsh_history .zshrc .zshrc.pre-oh-my-zsh .viminfo
